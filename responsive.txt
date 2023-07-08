@@ -1,0 +1,14 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+@media (max-width: 768px) {
+  /* Styles for screens smaller than 768px */
+}
+@media (max-width: 576px) {
+  /* Styles for screens smaller than 576px */
+}
+</style>
+<h1>Dhyan Bangera</h1>
+</body>
+</html>
